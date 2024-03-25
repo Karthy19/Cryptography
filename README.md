@@ -12,14 +12,13 @@
         <script type="module" src="https://pyscript.net/releases/2023.11.1/core.js"></script>
     </head>
     <body>
-        <!-- Header section -->
+        
         <div class="row-container heading">
             <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
             <h1><a href="https://www.hindawi.com/journals/jece/2012/173931/" target="blank">Image Cryptography</a></h1>
             <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
         </div>
 
-        <!-- Nav bar for encryption & decryption -->
         <div class="row-container navbar">
             <button class="button" id="encrypt-nav-item"> Encryption </button>
             <button class="button" id="decrypt-nav-item"> Decryption </button>
